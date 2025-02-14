@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BsHeartArrow } from "react-icons/bs";
+
 import { BsArrowThroughHeartFill } from "react-icons/bs";
 
 interface CardProps {

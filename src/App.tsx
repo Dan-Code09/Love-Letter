@@ -1,6 +1,6 @@
 import { useState, FormEvent } from "react";
 import "./App.css";
-import ParticlesBackground from "./components/ParticlesBackground";
+
 import Card from "./components/Card";
 import { BsEnvelopeHeart } from "react-icons/bs";
 import Back from "./assets/Back.jpg";
@@ -16,8 +16,6 @@ const App = () => {
 
   return (
     <div className="app-container">
-      {/*componente de particulas del fondo */}
-      <ParticlesBackground />
       <div
         className="background"
         style={{ backgroundImage: `url(${Back})` }}

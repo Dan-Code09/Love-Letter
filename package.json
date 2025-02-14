@@ -1,6 +1,7 @@
 {
   "name": "letter-app",
   "private": true,
+  "homepage": "http://Dan-Code09.github.io/Love-Letter/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
